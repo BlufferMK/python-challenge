@@ -1,6 +1,0 @@
-Financial Analysis
-The total number of months is 86 .
-The total net profit is $22564198.0 .
-The average monthly change in profits is $-8311.105882352942 .
-The greatest Increase in Profits occurred in Aug-16, and was $1862002.0 .
-The Greatest Decrease in Profits occurred in Feb-14, and was $-1825558.0 .
