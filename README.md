@@ -1,6 +1,13 @@
 # python-challenge
 
-The analysis folders contain python code in jupiter notebooks for the relevant file in the related Resources folder.
+There are 2 projects within this challenge.  The first is an analysis of profit/loss for a bank with monthly data.  The code reads in the csv file, performs calculations and transformations with the data, and outputs a text file with the budget analysis.
+
+The second project reads in a csv file with voting data for a precinct, transforms the data, sums the votes for each candidate and outputs a text file summarizing the performance of each candidate.  
+
+A Jupyter notebook is used for each of these analyses.
+
+
+The analysis folders contain python code in jupyter notebooks for the relevant file in the related Resources folder.
 
 For each, the coder reads in the information from the cvs file, stores the information in lists, and performs calculations and analysis on the data.
 
